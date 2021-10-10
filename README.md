@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin!
 -  I’m currently interested in Embedded Systems Programming and CI/CD.
--  I'm currently looking for an computer/software engineering internship for Summer of 2021.
+-  I'm currently looking for an computer/software engineering internship for Summer of 2022.
 -  How to reach me: kevinlin.vxd@gmail.com
 
 <!---
