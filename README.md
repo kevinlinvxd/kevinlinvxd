@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kevin!
--  I’m currently interested in Embedded Systems Programming and CI/CD Dev Ops Engineering. 
--  I'm currently looking for a Software Engineering internship for Summer of 2022.
+-  I’m a Junior in Computer Engineering currently studying at Iowa State University.
+-  I have experience in many programming languages, some of which are Java, JavaScript, C, HTML, CSS, and Python. In addition, through my studies, I have become familiar with various hardware languages such as VHDL and Verilog.
+-  I'm currently looking for a Software Engineering Internship for Summer of 2022.
 -  How to reach me: kevinlin.vxd@gmail.com
 
 <!---
