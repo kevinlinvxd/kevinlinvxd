@@ -9,6 +9,9 @@ I have experience in both many programming languages, some of which include Java
 
 Over the summer, I excited to be working at Northwestern Mutual as a Software Engineer Intern!
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlinvxd&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinlinvxd&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kevin's GitHub Stats" />
+
 <!---
 kevinlinvxd/kevinlinvxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
