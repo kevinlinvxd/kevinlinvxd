@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Kevin!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-lin-vxd/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Email-blue)](kevinlin.vxd@gmail.com)
 
 I’m a Junior in Computer Engineering currently studying at Iowa State University, with an vested interest in Linux, backend development, and AI.
 
