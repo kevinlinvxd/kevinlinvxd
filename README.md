@@ -13,7 +13,7 @@ Over the summer, I excited to be working at Northwestern Mutual as a Software En
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlinvxd&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /> 
 </a>
 <a href="https://github.com/kevinlinvxd/kevinlinvxd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinlinvxd&show_icons=true&line_height=26.5&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kevin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinlinvxd&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kevin's GitHub Stats" />
 </a>
 
 <!---
