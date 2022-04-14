@@ -5,7 +5,7 @@
 
 I’m a Junior in Computer Engineering currently studying at Iowa State University, with an vested interest in Linux, backend development, and AI.
 
-I have experience in both many programming languages, some of which include Java, JavaScript, C, HTML, CSS, and Python. In addition, through my studies, I have become familiar with various hardware languages such as VHDL and Verilog.
+I have experience in many programming languages, some of which include Java, JavaScript, C, HTML, CSS, and Python. In addition, through my studies, I have become familiar with various hardware languages such as VHDL and Verilog.
 
 Over the summer, I excited to be working at Northwestern Mutual as a Software Engineer Intern!
 
