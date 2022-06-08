@@ -7,8 +7,6 @@ I’m a Junior in Computer Engineering currently studying at Iowa State Universi
 
 I have experience in many programming languages, some of which include Java, JavaScript, C, HTML, CSS, and Python. In addition, through my studies, I have become familiar with various hardware languages such as VHDL and Verilog.
 
-Over the summer, I excited to be working at Northwestern Mutual as a Software Engineer Intern!
-
 <a href="https://github.com/kevinlinvxd/kevinlinvxd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlinvxd&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&count_private=true" /> 
 </a>
