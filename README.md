@@ -3,9 +3,11 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevinlinvxd/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kevinlin.vxd@gmail.com)
 
-I’m a Junior in Computer Engineering currently studying at Iowa State University, with an vested interest in Linux, backend development, and AI.
+I'm an enthusiastic, passionate, and knowledgeable student currently studying Computer Engineering at Iowa State University. I love Linux, AI, and rock climbing!
 
-I have experience in many programming languages, some of which include Java, JavaScript, C, HTML, CSS, and Python. In addition, through my studies, I have become familiar with various hardware languages such as VHDL and Verilog.
+I have experience in various programming languages; however, I'm most interested in backend software development with Java and JavaScript.
+
+Feel free to contact me with the links above.
 
 <a href="https://github.com/kevinlinvxd/kevinlinvxd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlinvxd&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&count_private=true" /> 
