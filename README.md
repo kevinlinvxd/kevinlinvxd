@@ -5,7 +5,7 @@
 
 I'm an enthusiastic, passionate, and knowledgeable student currently studying Computer Engineering at Iowa State University. I love Linux, AI, and rock climbing!
 
-I have experience in various programming languages; however, I'm most interested in backend software development with Java and JavaScript.
+I have experience in various programming languages; however, I'm most interested in backend software development.
 
 Feel free to contact me with the links above.
 
