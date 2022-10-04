@@ -10,7 +10,7 @@ I have experience in various programming languages; however, I'm most interested
 Feel free to contact me with the links above.
 
 <a href="https://github.com/kevinlinvxd/kevinlinvxd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlinvxd&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&count_private=true" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlinvxd&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&count_private=true" /> 
 </a>
 <a href="https://github.com/kevinlinvxd/kevinlinvxd">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinlinvxd&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kevin's GitHub Stats" />
