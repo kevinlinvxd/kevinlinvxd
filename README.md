@@ -4,6 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kevinlin.vxd@gmail.com)
 
 I'm an enthusiastic, passionate, and knowledgeable student currently studying Computer Engineering at Iowa State University. I love Linux, AI, and rock climbing!
+
 Following my graduation from Iowa State this upcoming Spring, I will be joining Visa at a Software Engineer focusing on Big Data.
 
 Feel free to contact me with the links above.
